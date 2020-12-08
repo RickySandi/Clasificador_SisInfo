@@ -1,5 +1,0 @@
-1.Neg
-2.Pos
-3.Pos
-4.Pos
-5.Neg
