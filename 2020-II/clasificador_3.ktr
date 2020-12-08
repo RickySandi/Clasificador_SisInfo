@@ -353,7 +353,7 @@
            </partitioning>
     <applicationType>JSON</applicationType>
     <method>POST</method>
-    <url>http&#x3a;&#x2f;&#x2f;127.0.0.1&#x3a;12345&#x2f;predict</url>
+    <url>http&#x3a;&#x2f;&#x2f;127.0.0.1&#x3a;5003&#x2f;predict</url>
     <urlInField>N</urlInField>
     <dynamicMethod>N</dynamicMethod>
     <methodFieldName/>
